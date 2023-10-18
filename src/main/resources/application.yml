@@ -1,0 +1,5 @@
+jwt-auth:
+  token-expiration-time: 48
+  secret: 1234567890
+server:
+  port: 9090
